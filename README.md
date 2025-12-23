@@ -67,10 +67,10 @@ python main.py
 
 ## Authors
 
-- Mohith R  
 - Mohan Chandra S S  
+- Mohith R  
 - Nithish Gowda H N  
-- Jeethu V Devasia  
+
 
 ---
 
